@@ -13,6 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "MesseApp2"
+rootProject.name = "MesseConnect"
 include(":app")
- 
